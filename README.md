@@ -7,4 +7,5 @@ https://github.com/parkjiwon1/ESG_Food_Project_AI
 
 코랩 코드 >> ESG_Training.ipynb
 
-레퍼런스 코드 >> https://github.com/pythonlessons/TensorFlow-2.x-YOLOv3
+레퍼런스 코드 >> 
+https://github.com/pythonlessons/TensorFlow-2.x-YOLOv3
